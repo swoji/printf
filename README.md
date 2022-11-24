@@ -1,7 +1,7 @@
 # 0x11. C - printf
 
 ## Description
-This group project is part of the curriculum of Holberton School.
+This group project is part of the curriculum of ALX Software Engineering Program.
 _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
